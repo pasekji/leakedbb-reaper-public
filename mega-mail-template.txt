@@ -1,0 +1,13 @@
+To: abuse@mega.nz
+From: -
+Subject: notice - links containing revenge porn
+
+Hello, 
+
+the following links are from the leakedbb.com forum. This is a forum dedicated to sharing leaked pornographic material, particularly revenge porn, without the consensus of the individuals within. This forum does not host this data, they use freely available cloud services to share it. The service they use the most is mega.nz. These links are pulled from this forum automatically, I develop a bot for this, if you need more evidence I can supply e.g. screenshots of the threads of this site. They use a backup system that, in the event of a report and subsequent deletion of data from mega.nz, detects this action and immediately re-uploads the data to mega.nz under a different account. Please let me know if you need more information to take appropriate action, I will adjust my bot to scrape more information and evidence for you.
+
+Thanks. 
+
+
+REVENGE PORN [scraped from leakedbb.com]:
+
